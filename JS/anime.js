@@ -59,7 +59,7 @@ const sr = ScrollReveal({
 sr.reveal(".container, .testimonial-container", {
   origin: "bottom",
   // delay: 100,
-  reset: true,
+  
 });
 
 sr.reveal(".step-text-box", { origin: "left", delay: 200 });
